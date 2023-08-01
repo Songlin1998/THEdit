@@ -8,9 +8,7 @@ authors:
 affiliations:
     University of Chinese Academy of Sciences, CASIA, Shanghai Jiao Tong University, Microsoft Research Asia
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+code(coming soon): https://songlin1998.github.io/THEdit/
 ---
 
 <div class="columns is-centered has-text-centered">
