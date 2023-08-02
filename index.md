@@ -10,9 +10,6 @@ affiliations:
 paper: https://arxiv.org/pdf/2308.00462.pdf
 code: https://songlin1998.github.io/THEdit/
 ---
-
-Code is coming soon~
-
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
