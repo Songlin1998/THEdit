@@ -4,7 +4,7 @@ permalink: /
 
 title: Context-Aware Talking-Head Video Editing
 authors:
-    Songlin Yang<sup>1</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Jun Ling<sup>3</sup>, Bo Peng<sup>2</sup>, Xu Tan<sup>4</sup>, Jing Dong<sup>2</sup>
+    Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Jun Ling<sup>3</sup>, Bo Peng<sup>2</sup>, Xu Tan<sup>4</sup>, Jing Dong<sup>2</sup>
 affiliations:
     1 University of Chinese Academy of Sciences, 2 CASIA, 3 Shanghai Jiao Tong University, 4 Microsoft Research Asia
 paper: https://arxiv.org/pdf/2308.00462.pdf
