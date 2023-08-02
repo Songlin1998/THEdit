@@ -4,12 +4,14 @@ permalink: /
 
 title: Context-Aware Talking-Head Video Editing
 authors:
-    Songlin Yang, Wei Wang, Jun Ling, Bo Peng, Xu Tan, Jing Dong
+    Songlin Yang<sup>1</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Jun Ling<sup>3</sup>, Bo Peng<sup>2</sup>, Xu Tan<sup>4</sup>, Jing Dong<sup>2</sup>
 affiliations:
-    University of Chinese Academy of Sciences, CASIA, Shanghai Jiao Tong University, Microsoft Research Asia
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-code(coming soon): https://songlin1998.github.io/THEdit/
+    1 University of Chinese Academy of Sciences, 2 CASIA, 3 Shanghai Jiao Tong University, 4 Microsoft Research Asia
+paper: https://arxiv.org/pdf/2308.00462.pdf
+code: https://songlin1998.github.io/THEdit/
 ---
+
+Code is coming soon~
 
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
