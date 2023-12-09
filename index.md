@@ -10,7 +10,7 @@ affiliations:
     2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China
     3 S-Lab, Nanyang Technological University, Singapore
     4 SenseTime, China
-paper: https://arxiv.org/pdf/2308.00462.pdf
+paper: https://songlin1998.github.io/THEdit/
 code: https://songlin1998.github.io/THEdit/
 ---
 <div class="columns is-centered has-text-centered">
