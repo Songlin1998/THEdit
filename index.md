@@ -4,12 +4,12 @@ permalink: /
 
 title: Context-Aware Talking-Head Video Editing
 authors:
-    Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Yushi Lan<sup>3</sup>, Xiangyu Fan<sup>4</sup>, Bo Peng<sup>2</sup>, Lei Yang<sup>4</sup>, Jing Dong<sup>2</sup>
+    Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Jun Ling<sup>3</sup>, Bo Peng<sup>2</sup>, Tan Xu<sup>4</sup>, Jing Dong<sup>2</sup>
 affiliations:
-    1 School of Artificial Intelligence, University of Chinese Academy of Sciences, China
-    2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China
-    3 S-Lab, Nanyang Technological University, Singapore
-    4 SenseTime, China
+    1 School of Artificial Intelligence, University of Chinese Academy of Sciences, China\
+    2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China\
+    3 Shanghai Jiao Tong University, China\
+    4 Microsoft Research Asia, China\
 paper: https://songlin1998.github.io/THEdit/
 code: https://songlin1998.github.io/THEdit/
 ---
